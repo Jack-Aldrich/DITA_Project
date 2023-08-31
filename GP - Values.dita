@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="gp_values">
+    <title>Values</title>
+    <body>
+        <p>GP holds several comany values in the highest regard. These values help our company stay
+            on track with our mission and help reassure clients that they are in good hands. These
+            values are: </p>
+        <p>
+            <ul id="ul_epz_dtx_3tb">
+                <li><b>Leadership</b>
+                </li>
+                <li><b>Teamwork</b>
+                </li>
+                <li><b>Added Value</b></li>
+                <li><b>Commitment</b></li>
+                <li><b>Open to Change</b></li>
+                <li><b>Goal Oriented</b></li>
+                <li><b>Honesty</b></li>
+            </ul>
+        </p>
+        
+    </body>
+</topic>
